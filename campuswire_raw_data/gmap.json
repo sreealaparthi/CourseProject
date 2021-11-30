@@ -1,0 +1,32 @@
+{
+   "comments":[
+      
+   ],
+   "messageCount":0,
+   "messages":[
+      
+   ],
+   "postCount":1,
+   "posts":[
+      {
+         "id":"8d8343b5-6862-4aed-acdb-2c4f21758063",
+         "categoryId":"ac4f59e4-5bb3-4099-9b05-62b8c33e2ca4",
+         "author":{
+            "id":"51c3b568-fd31-4736-9120-6522e404bb9b",
+            "firstName":"Jatin",
+            "lastName":"Saxena",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-teal.png",
+            "registered":true,
+            "slug":"U51C3B568",
+            "role":"0"
+         },
+         "title":"In lesson 3.4, how ==gmap== tend to be affected more by low precision values?",
+         "body":" map. But didn’t understand how low values affect the ==gmap== as in geometric mean we need to multiple",
+         "publishedAt":"2021-09-10T02:58:48.883474Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":543,
+         "type":"question",
+         "visibility":"member"
+      }
+   ]
+}

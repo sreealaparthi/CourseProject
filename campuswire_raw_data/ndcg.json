@@ -1,0 +1,225 @@
+{
+   "comments":[
+      
+   ],
+   "messageCount":0,
+   "messages":[
+      
+   ],
+   "postCount":11,
+   "posts":[
+      {
+         "id":"8ab5c156-34b0-495a-938d-38524c4ac5e5",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            
+         },
+         "title":"MP2.4 Testing ==NDCG== on Other Datasets",
+         "body":" ==NDCG== values on APNews and Faculty datasets other than pushing the code and checking the rankings on leaderboard?",
+         "anonymous":true,
+         "publishedAt":"2021-10-03T03:36:57.120895Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":994,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"ce54187c-fa0a-4ebd-97d6-c068a12aa99a",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            
+         },
+         "title":"MP2.4 Do we only have to submit ==NDCG==@10?",
+         "body":"Do we only have to get the ==NDCG==@10 comparing to baseline? What's my baseline? I'm confused about the requirements.",
+         "anonymous":true,
+         "publishedAt":"2021-09-28T02:50:00.094489Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":929,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"d3fab747-a442-424f-9971-e5252ad82d1d",
+         "categoryId":"698c6ef8-e91d-4258-a8f2-b2dc37f24e3f",
+         "author":{
+            "id":"6b90981b-a8cc-4284-8270-ebd941a62365",
+            "firstName":"Anonymous",
+            "lastName":"A",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-yellow.png",
+            "registered":true,
+            "slug":"U6B90981B",
+            "role":"0"
+         },
+         "title":"Questions about Practice Quiz 3",
+         "body":"Question 9\nDCG is better than ==nDCG== as its value is within [0, 1].\n\nI know the formula of ==nDCG== = DCG",
+         "publishedAt":"2021-09-01T14:31:03.393407Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":317,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"aeefca8d-9b4d-4a89-bb07-1926f5e6150f",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            "id":"7754c424-cb7e-43ff-9f9d-ddf683b4b925",
+            "firstName":"Aravind",
+            "lastName":"Pillai",
+            "photo":"https://campuspro-uploads.s3.us-west-2.amazonaws.com/avatars/7754c424-cb7e-43ff-9f9d-ddf683b4b925/1633837819754.png",
+            "registered":true,
+            "slug":"U7754C424",
+            "role":"0"
+         },
+         "title":"Regarding Rank for MP 2.4",
+         "body":" (==NDCG==@10 on APNews). \n\nShould the rank be based on Overall Score ?\n\nRank in the leader board is  based",
+         "publishedAt":"2021-09-23T21:13:42.434896Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":886,
+         "type":"question",
+         "visibility":"member",
+         "answeredAt":"2021-09-24T00:35:34.36826Z"
+      },
+      {
+         "id":"38d32bbb-2c18-435e-bc2d-523ddf956ee4",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            "id":"7fdacdce-92d5-45e2-8eeb-d8a94b63a55c",
+            "firstName":"Kimberly",
+            "lastName":"Martin",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-lblue.png",
+            "registered":true,
+            "slug":"U7FDACDCE",
+            "role":"0"
+         },
+         "title":"Can't beat baseline",
+         "body":" to maximize the ==NDCG== but still can't get the 1 on that leaderboard D: \n\nDoes any one have any tips on",
+         "publishedAt":"2021-10-01T00:47:37.768755Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":965,
+         "type":"question",
+         "visibility":"member",
+         "answeredAt":"2021-10-02T01:07:57.90184Z"
+      },
+      {
+         "id":"b13d64a0-46aa-446e-b67e-f246e29ae645",
+         "categoryId":"698c6ef8-e91d-4258-a8f2-b2dc37f24e3f",
+         "author":{
+            "id":"5f3e6233-9ad7-488c-a4e4-a4c3f2b4e906",
+            "firstName":"Ziyang",
+            "lastName":"Zhan",
+            "photo":"https://campuspro-uploads.s3.us-west-2.amazonaws.com/avatars/5f3e6233-9ad7-488c-a4e4-a4c3f2b4e906/1632402607082.png",
+            "registered":true,
+            "slug":"U5F3E6233",
+            "role":"0"
+         },
+         "title":"A question about ==NDCG==",
+         "body":"![image.png](https://campuspro-uploads.s3.us-west-2.amazonaws.com/0a3aa370-c917-4993-b5cf-4e06585e7704/1e95f594-bfad-4755-96a6-d69c9482075f/image.png)\n\nIn this example, the professor assumes \"nine\ndocuments in the whole collection rated three.\" And so IdealDCG is:\n![image.png](https://campuspro-uploads.s3.us-west-2.amazonaws.com/0a3aa370-c917-4993-b5cf-4e06585e7704/bc34ce75-7c95-466c-9309-17e003a874e6/image.png)\n\n***My question:*** we can also assume ten documents (or nine documents) in the whole collection rated three. So that NDCG's value will vary based on the individual assumption. Is a variable value we desire?\n\n",
+         "publishedAt":"2021-09-06T08:12:52.951052Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":459,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"74e8ea2e-ca84-4e84-b662-f2c4da48e18c",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            "id":"cfeccacc-38a3-4fa1-a982-8dd2f6572629",
+            "firstName":"Zachary",
+            "lastName":"Oldham",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-red.png",
+            "registered":true,
+            "slug":"UCFECCACC",
+            "role":"0"
+         },
+         "title":"Confused about MP2.4 scoring and credit",
+         "body":"I am looking at the leaderboard, and there are people with higher scores than me who have lower values for each of the 3 data sets. Additionally, there are people with lower scores than me who have received credit, while I have not received credit. How is all of this being calculated?",
+         "publishedAt":"2021-09-28T22:53:12.553949Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":943,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"a2768c83-bbf0-46da-ba88-fe7f59b0a714",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            "id":"8ac53787-c6bc-4412-901a-b8ea4e9242a0",
+            "firstName":"Abhijit",
+            "lastName":"Bhadra",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-cyan.png",
+            "registered":true,
+            "slug":"U8AC53787",
+            "role":"0"
+         },
+         "title":"How the Score is calculated on Leaderboard",
+         "body":"This is what been said \n\"\"Overall Score\" is computed as 0.1* ==NDCG==@10 on APNews + 0.3* ==NDCG==@10 on",
+         "publishedAt":"2021-09-14T12:41:44.32306Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":646,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"4da1cf92-ec3f-48d1-be47-ee051ddbfcf0",
+         "categoryId":"ac4f59e4-5bb3-4099-9b05-62b8c33e2ca4",
+         "author":{
+            "id":"a38cad7c-ff2d-4b94-a1ec-81a8c73f8cbf",
+            "firstName":"Tristan",
+            "lastName":"M",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-bgrey.png",
+            "registered":true,
+            "slug":"UA38CAD7C",
+            "role":"0"
+         },
+         "title":"Multi-level judgment document score of 0?",
+         "body":"In lesson 3.5 on multi-level judgments, the last slide says that ML-judgments can run on a scale of [1,r] where r (rank) \u003e 2.\n\nSo in a very fine-grained ML-judgment system where the number of ranks = 10, one could have a document score of 1 for the least-relevant one, 2 for a slightly more relevant document, etc. up to a score of 10 for the most relevant document, as far as I understand.\n\nWhy, though, would we not be able to apply a score of 0 for the \"non-relevant\" documents? It seems intuitively valid to grant a score of zero to a document that the user has gained nothing from processing it. Is there any reason not to?",
+         "publishedAt":"2021-09-03T14:57:19.152332Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":367,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"8534160e-e000-4a02-9626-bbbe90bfd5bc",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            "id":"1012b907-e363-45d8-b6f9-b851a61408da",
+            "firstName":"Vedant",
+            "lastName":"Jhaveri",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-red.png",
+            "registered":true,
+            "slug":"U1012B907",
+            "role":"0"
+         },
+         "title":"MP2.4 Task",
+         "body":"What exactly are we supposed to do in MP2.4 to get the baseline grade?\nThe readme makes little sense to me. Are we supposed to just do MP2.2 again? Idk what is needed to get the baseline score.",
+         "publishedAt":"2021-09-23T03:24:02.73257Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":877,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"5b1fd8b6-c2ab-4eed-805d-fe401e8a2d48",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            "id":"5f3e6233-9ad7-488c-a4e4-a4c3f2b4e906",
+            "firstName":"Ziyang",
+            "lastName":"Zhan",
+            "photo":"https://campuspro-uploads.s3.us-west-2.amazonaws.com/avatars/5f3e6233-9ad7-488c-a4e4-a4c3f2b4e906/1632402607082.png",
+            "registered":true,
+            "slug":"U5F3E6233",
+            "role":"0"
+         },
+         "title":"MP2.4 ",
+         "body":"The task asks us to do an evaluation based on ==NDCG==. So we need a set of score results with gained",
+         "publishedAt":"2021-09-21T09:20:10.272998Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":856,
+         "type":"question",
+         "visibility":"member",
+         "answeredAt":"2021-09-22T00:03:56.54344Z"
+      }
+   ]
+}

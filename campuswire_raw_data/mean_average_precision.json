@@ -1,0 +1,377 @@
+{
+   "comments":[
+      
+   ],
+   "messageCount":0,
+   "messages":[
+      
+   ],
+   "postCount":103,
+   "posts":[
+      {
+         "id":"c4b67144-6e91-41b1-9dd7-03cae5b86e87",
+         "categoryId":"887cf2b0-ddf4-44f5-9f31-d62dc3e64017",
+         "author":{
+            
+         },
+         "title":"quiz 3 ==average== ==precision==",
+         "body":" to get the ==average== ==precision== values using the formula. can someone please explain this process. thank you",
+         "anonymous":true,
+         "publishedAt":"2021-10-14T16:06:22.182056Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":1158,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"8d8343b5-6862-4aed-acdb-2c4f21758063",
+         "categoryId":"ac4f59e4-5bb3-4099-9b05-62b8c33e2ca4",
+         "author":{
+            "id":"51c3b568-fd31-4736-9120-6522e404bb9b",
+            "firstName":"Jatin",
+            "lastName":"Saxena",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-teal.png",
+            "registered":true,
+            "slug":"U51C3B568",
+            "role":"0"
+         },
+         "title":"In lesson 3.4, how gmap tend to be affected more by low ==precision== values?",
+         "body":" the different ==precision==. If the ==precision== is high then the value after multiplication will be higher which will give high geometric ==mean==.",
+         "publishedAt":"2021-09-10T02:58:48.883474Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":543,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"03040e30-f187-403c-85a5-12f5cd806c79",
+         "categoryId":"ac4f59e4-5bb3-4099-9b05-62b8c33e2ca4",
+         "author":{
+            "id":"21c50cb6-6108-49ec-966f-c289a4d1e836",
+            "firstName":"Min Jie",
+            "lastName":"Sa",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-lblue.png",
+            "registered":true,
+            "slug":"U21C50CB6",
+            "role":"0"
+         },
+         "title":"==precision== vs recall curve - why only chart the first ==precision== value for a recall",
+         "body":" ==average==? \n\nAlso - maybe im a little confused now but why would ==precision== ever be 0 as you go through the 1",
+         "publishedAt":"2021-10-10T01:37:17.861406Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":1068,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"c953313e-3507-4afe-81da-c167a228aaf3",
+         "categoryId":"887cf2b0-ddf4-44f5-9f31-d62dc3e64017",
+         "author":{
+            "id":"8ac53787-c6bc-4412-901a-b8ea4e9242a0",
+            "firstName":"Abhijit",
+            "lastName":"Bhadra",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-cyan.png",
+            "registered":true,
+            "slug":"U8AC53787",
+            "role":"0"
+         },
+         "title":"How stemming improves recall and decrease ==precision== ?",
+         "body":" ==precision== . I do understand that that when we club a few similar words into one, recall can improve but in what situation **==precision==** can *decrease?*\n\n\n",
+         "publishedAt":"2021-10-08T22:36:58.266691Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":1051,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"b0861bd1-bb36-48fc-8680-75360e2ca3a1",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            
+         },
+         "title":"What is the output expected in varying the parameter?",
+         "body":"Are we supposed to run the code that they have provided?\n\nWhat should we expect to see?",
+         "anonymous":true,
+         "publishedAt":"2021-09-14T23:26:33.287909Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":664,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"a619604c-a10c-4f92-8898-74551e00d90c",
+         "categoryId":"c62ab6c9-4531-4334-908e-e6c2a199f075",
+         "author":{
+            "id":"cd7ffb45-8018-4786-898a-25305540f516",
+            "firstName":"Sean",
+            "lastName":"Ho",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-cyan.png",
+            "registered":true,
+            "slug":"UCD7FFB45",
+            "role":"0"
+         },
+         "title":"Practice quiz 3 -Question 5",
+         "body":" system A has higher ==precision== at k document than system B for any number of k, does it ==mean== A also has higher recall than B at any position?\"",
+         "publishedAt":"2021-09-07T06:48:21.036634Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":495,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"7ffd4f36-b30a-438d-842c-a8b326d4b48d",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            
+         },
+         "title":"Mp2.2 clarification",
+         "body":"1. What is the end goal of mp2.2? Lol. The text in the instructions are weighted towards math speak and not everyday language, hard to decipher what I need to do. I understand we need to write InL2, particularly modifying only the \"score_one\" function within search_eval.py. Are we only **functionally** supposed to be concerned on achieving [this](https://doc-14-ac-docs.googleusercontent.com/docs/securesc/9vfrjgsp0bkardqadua9agapr5k1aiuk/cnf84a6uqu8ss25hghkvgr201efcqc3i/1631808975000/08564352397998940749/14543551473788757540/1gcbywLx0ZEU3eqxlDtLk6o4Yxd788IiK?e=view\u0026authuser=0\u0026nonce=7q2h7veaagrm6\u0026user=14543551473788757540\u0026hash=kdu2vqi11mloerbopp32njiftld9no9b) within the score_one function?\n\n2. How do you start the script? Other students are suggesting:\n ```\npython3 search_eval.py config.toml\n```\n\nHowever, when I run the above command, it just hangs at the first line forever. PFB: \n\n\n```\nBuilding or loading index...\nQuery path!! cranfield-queries.txt\nRunning queries\n0\nwhat similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft \n\n```\nIn the python code, I am noticing that there's an additional parameter that gets read in outside of config.toml \ncalled \"CFG\" what is the about and how does this fit into the picture of the assignment? \n\n```\nif __name__ == '__main__':\n    if len(sys.argv) != 2:\n        print(\"Usage: {} config.toml\".format(sys.argv[0]))\n        sys.exit(1)\n\n    cfg = sys.argv[1]\n    print('Building or loading index...')\n    idx = metapy.index.make_inverted_index(cfg)\n    ranker = load_ranker(cfg)\n    ev = metapy.index.IREval(cfg)\n```",
+         "anonymous":true,
+         "publishedAt":"2021-09-16T16:29:31.901365Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":699,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"04241cb4-144b-47c9-a24e-bc70cf601645",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            "id":"519d8e40-ab81-4bff-82fd-f59e4530e58e",
+            "firstName":"Yaohui",
+            "lastName":"Wang",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-barney.png",
+            "registered":true,
+            "slug":"U519D8E40",
+            "role":"0"
+         },
+         "title":"InL2 not implemented correctly MP2.2",
+         "body":" is 10 but it just cannot pass the AG for some reason. My best ==mean== ==average== ==precision== for InL2 is",
+         "publishedAt":"2021-09-16T04:47:30.918617Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":690,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"620d8603-ba71-4d97-b13c-3e1952d28b5c",
+         "categoryId":"e230a034-7f39-4e26-a832-cf280027ade7",
+         "author":{
+            
+         },
+         "title":"Micro ==Average== (Practice Q11)",
+         "body":"-4e06585e7704/52a24aa9-020f-4be3-8139-aba52434c5e7/image.png)\n\nCan anyone explain how this micro ==average== is",
+         "anonymous":true,
+         "publishedAt":"2021-11-04T22:34:56.561659Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":1557,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"62125bd5-c588-4f30-b4c7-1bf02e1d1954",
+         "categoryId":"ac4f59e4-5bb3-4099-9b05-62b8c33e2ca4",
+         "author":{
+            "id":"c1a6e622-2433-4bb9-80fe-7009c8c3f49a",
+            "firstName":"Suhas",
+            "lastName":"Bhat",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-cyan.png",
+            "registered":true,
+            "slug":"UC1A6E622",
+            "role":"0"
+         },
+         "title":"Grid for ==Precision== and Recall",
+         "body":"\nIn the below grid 'b' falls under [Not Retrieved, Relevant].\nWhat does that ==mean==? How do we know",
+         "publishedAt":"2021-09-09T11:38:52.409235Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":527,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"da5a818d-c448-430a-853c-91715d2b40c2",
+         "categoryId":"ac4f59e4-5bb3-4099-9b05-62b8c33e2ca4",
+         "author":{
+            "id":"c1a6e622-2433-4bb9-80fe-7009c8c3f49a",
+            "firstName":"Suhas",
+            "lastName":"Bhat",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-cyan.png",
+            "registered":true,
+            "slug":"UC1A6E622",
+            "role":"0"
+         },
+         "title":"Lesson 3.4: Evaluation of TR systems",
+         "body":" and recall. How? Isn't it just the ==average== of the ==precision== values over the total retrieved docs",
+         "publishedAt":"2021-09-06T09:53:37.12109Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":461,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"0cd7c015-f885-4e76-91b6-e5792a1d16af",
+         "categoryId":"ac4f59e4-5bb3-4099-9b05-62b8c33e2ca4",
+         "author":{
+            "id":"8ac53787-c6bc-4412-901a-b8ea4e9242a0",
+            "firstName":"Abhijit",
+            "lastName":"Bhadra",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-cyan.png",
+            "registered":true,
+            "slug":"U8AC53787",
+            "role":"0"
+         },
+         "title":"F-measure parameters",
+         "body":" parameter that weighs between ==precision== and recall. For an automatic system that filters tweets in",
+         "publishedAt":"2021-08-29T09:39:21.242855Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":199,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"b39470a3-a440-4145-b3b4-c002eaf8dba6",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            "id":"f3c95f01-c8bd-463c-aa2f-f751350cadd0",
+            "firstName":"Angus",
+            "lastName":"Jyu",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-lime.png",
+            "registered":true,
+            "slug":"UF3C95F01",
+            "role":"0"
+         },
+         "title":"MP2.2 Lost on how/what to write to bm25.avg_p.txt and inl2.avg_p.txt files",
+         "body":" how by modifying the code in \"Varying a parameter\" section, you can create a file with ==average==",
+         "publishedAt":"2021-09-20T03:49:34.176529Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":830,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"982862ee-10d5-4db3-b656-99f991eef3d2",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            
+         },
+         "title":"MP2.2 ==precision== output is 0",
+         "body":"Hi! I realized my implementation of  inl2 always output 0 for the below term and the ==precision== is",
+         "anonymous":true,
+         "publishedAt":"2021-09-20T03:15:42.217828Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":827,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"a45c1058-98cb-4cb2-b29f-61233c53e8bf",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            "id":"0de88bc0-6fc4-475a-93d4-d1c034db249b",
+            "firstName":"Anupam",
+            "lastName":"Ojha",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-teal.png",
+            "registered":true,
+            "slug":"U0DE88BC0",
+            "role":"0"
+         },
+         "title":"MP 2.2 bm25.avg_p.txt and inl2.avg_p.txt file contents",
+         "body":"Should the above files just contain the per query ==average== or the MAP as well? For example , there",
+         "publishedAt":"2021-09-20T00:31:23.289343Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":811,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"56269dd8-e73b-42e1-a986-5f801146ec36",
+         "categoryId":"887cf2b0-ddf4-44f5-9f31-d62dc3e64017",
+         "author":{
+            
+         },
+         "title":"Quiz Question",
+         "body":"Question 5\nIf system A has higher ==precision== at k document than system B for any number of k, does",
+         "anonymous":true,
+         "publishedAt":"2021-10-12T04:14:38.540408Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":1104,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"0b075ca3-7764-4b83-ab1a-9c56e8d8d8e8",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            "id":"654f11e8-62b6-42ef-ac58-053c7a47a1fd",
+            "firstName":"Li",
+            "lastName":"Ju",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-green.png",
+            "registered":true,
+            "slug":"U654F11E8",
+            "role":"0"
+         },
+         "title":"How long does the sample codes under 'varying parameters' run in readme?",
+         "body":"Hello, I think I met the same problem which has been mentioned in #730 (which has not been resolved). I just wanted to run some sample codes in readme to know the general idea of the mp but the below for loop looks like going never stopping. I did not change anything for the original sample codes. Noting printed out for the first line of codes under the for loop.  Is anything wrong with my python version? Appreciate any help!\n![image.png](https://campuspro-uploads.s3.us-west-2.amazonaws.com/0a3aa370-c917-4993-b5cf-4e06585e7704/79953eda-a808-451f-ac5b-fdc399a80451/image.png)\n![image.png](https://campuspro-uploads.s3.us-west-2.amazonaws.com/0a3aa370-c917-4993-b5cf-4e06585e7704/a000960d-2a8a-4068-a4f8-f1bfbba48ad9/image.png)\n",
+         "publishedAt":"2021-09-18T14:54:21.346781Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":732,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"d3db62a0-4048-48e4-8199-02fd6c1e7936",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            
+         },
+         "title":"InL2 not implemented correctly",
+         "body":"Hi,\nI do think I have implemented score_one correctly. I've got ==Mean== ==average== ==precision==",
+         "anonymous":true,
+         "publishedAt":"2021-09-19T18:29:34.65993Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":783,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"f9ff076d-eb86-4a22-b900-9ca29c70ef4d",
+         "categoryId":"698c6ef8-e91d-4258-a8f2-b2dc37f24e3f",
+         "author":{
+            "id":"e7eafcdd-d6b5-4cd3-beaf-9e5e6cc3179c",
+            "firstName":"Jiecheng",
+            "lastName":"Zhao",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-cyan.png",
+            "registered":true,
+            "slug":"UE7EAFCDD",
+            "role":"0"
+         },
+         "title":"Practice Quiz 3 - Question 3",
+         "body":"In Practice Quiz 3.3, we need to calculate the ==average== precisions.\nSystem A",
+         "publishedAt":"2021-09-05T20:28:13.386408Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":433,
+         "type":"question",
+         "visibility":"member"
+      },
+      {
+         "id":"2471b9b8-b482-4191-a297-f481cab07f24",
+         "categoryId":"4ebd3606-4398-47ad-ad99-c3ba8bf4ea46",
+         "author":{
+            "id":"582737ed-c716-42a4-b565-6630a5236801",
+            "firstName":"Narasimha",
+            "lastName":"Kethireddy",
+            "photo":"https://s3-us-west-2.amazonaws.com/campuswire-default-images/user-lgreen.png",
+            "registered":true,
+            "slug":"U582737ED",
+            "role":"0"
+         },
+         "title":"MP2.2 Statistical significance testing ",
+         "body":"Im getting below error while comparing the ==average== ==precision== values for the two ranking methods",
+         "publishedAt":"2021-09-18T20:42:34.854492Z",
+         "group":"0a3aa370-c917-4993-b5cf-4e06585e7704",
+         "number":740,
+         "type":"question",
+         "visibility":"member"
+      }
+   ]
+}
