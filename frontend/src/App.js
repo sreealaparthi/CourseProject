@@ -334,9 +334,9 @@ function App() {
     let [video, setVideo] = useState("");
     // let captions = fs.readFile('transcripts/textanalytics/edited/7.1 Overview Text Mining and Analytics - Part 1.json').trim()
 
-    useEffect(() => {
-        loadData()
-    }, [items]);
+    // useEffect(() => {
+    //     loadData()
+    // }, [items]);
 
 
     return (
@@ -381,61 +381,61 @@ function getTranscript(video) {
     }
 }
 
-async function loadData() {
-    let arr1 = items[0]
-    let arr2 = items[1]
-
-    let courses = arr1.titleitems
-    let name = arr1.name
-    console.log("length is: ", courses.length)
-    let text = "";
-    for (const courseName of courses) {
-        let transcriptFilePath = `transcripts/${name}/edited/${courseName.label}.vtt`
-        let myPromise1 = new Promise((resolve) => {
-            setTimeout(() => {
-                text = loadTranscript(transcriptFilePath)
-                resolve(text);
-            }, 10);
-        });
-        //await transcriptMap.set(transcriptFilePath, text)
-        myPromise1.then(
-            function (value) {
-                transcriptMap.set(transcriptFilePath, value)
-            }
-        )
-    }
-
-    courses = arr2.titleitems
-
-    name = arr2.name
-    console.log("length is: ", courses.length)
-    for (var courseIndex in courses) {
-        let transcriptFilePath = `transcripts/${name}/edited/${courses[courseIndex].label}.vtt`
-        let myPromise2 = new Promise((resolve) => {
-            setTimeout(() => {
-                text = loadTranscript(transcriptFilePath)
-                resolve(text);
-            }, 10);
-        });
-        myPromise2.then(
-            function (value) {
-                transcriptMap.set(transcriptFilePath, value)
-            }
-        )
-    }
-}
-
-async function loadTranscript(filePath) {
-    //'transcripts/textanalytics/tm-lec1-transcription-english.vtt'
-    // let transcriptFilePath=`transcripts/${filePath.lectureName[1]}/edited/${filePath.lectureName[0]}`
-    const data = await fetch(filePath)
-        .then(response => response.text())
-        //.then(data=> console.log(data))
-        .catch(error => console.error(error));
-    //console.log(data);
-    //console.log("processed file: ",filePath);
-    return data;
-}
+// async function loadData() {
+//     let arr1 = items[0]
+//     let arr2 = items[1]
+//
+//     let courses = arr1.titleitems
+//     let name = arr1.name
+//     console.log("length is: ", courses.length)
+//     let text = "";
+//     for (const courseName of courses) {
+//         let transcriptFilePath = `transcripts/${name}/edited/${courseName.label}.vtt`
+//         let myPromise1 = new Promise((resolve) => {
+//             setTimeout(() => {
+//                 text = loadTranscript(transcriptFilePath)
+//                 resolve(text);
+//             }, 10);
+//         });
+//         //await transcriptMap.set(transcriptFilePath, text)
+//         myPromise1.then(
+//             function (value) {
+//                 transcriptMap.set(transcriptFilePath, value)
+//             }
+//         )
+//     }
+//
+//     courses = arr2.titleitems
+//
+//     name = arr2.name
+//     console.log("length is: ", courses.length)
+//     for (var courseIndex in courses) {
+//         let transcriptFilePath = `transcripts/${name}/edited/${courses[courseIndex].label}.vtt`
+//         let myPromise2 = new Promise((resolve) => {
+//             setTimeout(() => {
+//                 text = loadTranscript(transcriptFilePath)
+//                 resolve(text);
+//             }, 10);
+//         });
+//         myPromise2.then(
+//             function (value) {
+//                 transcriptMap.set(transcriptFilePath, value)
+//             }
+//         )
+//     }
+// }
+//
+// async function loadTranscript(filePath) {
+//     //'transcripts/textanalytics/tm-lec1-transcription-english.vtt'
+//     // let transcriptFilePath=`transcripts/${filePath.lectureName[1]}/edited/${filePath.lectureName[0]}`
+//     const data = await fetch(filePath)
+//         .then(response => response.text())
+//         //.then(data=> console.log(data))
+//         .catch(error => console.error(error));
+//     //console.log(data);
+//     //console.log("processed file: ",filePath);
+//     return data;
+// }
 
 
 export default App;
