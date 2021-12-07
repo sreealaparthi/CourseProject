@@ -11,7 +11,7 @@ The complete project documentation is located in the file Project Documentation.
 A software usage tutorial video is located at.
 
 
-Team Members:
-  Josephine Falso
-  Sree Alaparthi
-  Narasimha Kethireddy
+Team Members:<br />
+- Josephine Falso<br />
+- Sree Alaparthi<br />
+- Narasimha Kethireddy
